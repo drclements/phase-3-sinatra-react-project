@@ -1,5 +1,5 @@
 class Journal
   def hi
-    puts 'hello'
+    puts 'hi'
   end
 end
